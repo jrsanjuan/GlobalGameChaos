@@ -1,5 +1,4 @@
 # Global Game Chaos
-### Info
 Created at Global Game Jam 2015.
 
 The game's core mechanics are based on events that the player has to manage through a simple 'click and drag'.
