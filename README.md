@@ -1,4 +1,4 @@
-# GlobalGameChaos
+# Global Game Chaos
 
 ![Chaos](https://github.com/jrsanjuan/GlobalGameChaos/blob/master/Media/chaos.gif)
 
